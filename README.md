@@ -1,4 +1,4 @@
-# Example for sending SMS using SMSLink API
+# Example for sending SMS using SMSLink - SMS Gateway (HTTP) API using Python & http.client
 
 This is an example for sending SMS using [SMSLink.ro](https://www.smslink.ro) API, called [SMS Gateway](https://www.smslink.ro/sms-gateway.html). 
 SMSLink.ro allows you to send SMS to all mobile networks in Romania and also to more than 168 countries and more than 1000 mobile operators worldwide. 
